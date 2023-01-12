@@ -3,7 +3,7 @@
 #include "camera.h"
 #include "lapse.h"
 
-// create your own secrets.h the below defined, do not check into github 
+// create your own secrets.h with below defined
 //
 //const char *ssid = "";
 //const char *password = "";
