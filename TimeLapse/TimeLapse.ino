@@ -3,8 +3,11 @@
 #include "camera.h"
 #include "lapse.h"
 
-const char *ssid = "...";
-const char *password = "...";
+// create your own secrets.h the below defined, do not check into github 
+//
+//const char *ssid = "";
+//const char *password = "";
+#include "secrets.h"
 
 void startCameraServer();
 
